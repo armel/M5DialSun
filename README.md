@@ -3,7 +3,7 @@
 
 **Many thanks to them and all my [donors](#donations)🙏🏻** 
 
-This project is a little air quality monitor for M5Stack and Unit CO2 ([SCD40](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/unit/co2/SCD40.pdf)).
+This tiny project shows currents photos of the sun in different wavelengths.
 
 # Compilation
 
@@ -46,7 +46,7 @@ Be aware ! If you want to enter download mode, press and hold the G0 button on S
 
 # Usage
 
-Use M5Dial rotary encoder to change current solar photos in different wavelengths.
+Use M5Dial rotary encoder to change current solar photo in different wavelengths.
 
 Use bottom button to show or hide clock and legend.
 
